@@ -1,0 +1,10 @@
+
+#Common files
+
+main.c
+start.bat
+
+*.lib
+*.exe
+
+template
